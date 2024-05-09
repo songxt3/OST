@@ -7,7 +7,7 @@ This is the code implementation for the paper "One-step Spiking Transformer with
 </p>
 
 ### Requirements
-timm
+timm==0.5.4
 
 cupy
 
