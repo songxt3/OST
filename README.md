@@ -9,13 +9,13 @@ This is the code implementation for the paper "One-step Spiking Transformer with
 ### Requirements
 timm==0.5.4
 
-cupy
+cupy==10.6.0
 
-pytorch
+pytorch==1.13.1
 
 spikingjelly==0.0.0.0.12
 
-pyyaml
+pyyaml==6.0
 
 data prepare: your should download corresponding dataset and modify the dateset path 'data_dir:' at each dataset '.yml' file.
 
