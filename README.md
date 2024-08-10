@@ -54,5 +54,18 @@ python train.py
 
 ## Reference
 ```
-Wait update.
+@inproceedings{ijcai2024p348,
+  title     = {One-step Spiking Transformer with a Linear Complexity},
+  author    = {Song, Xiaotian and Song, Andy and Xiao, Rong and Sun, Yanan},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {3142--3150},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/348},
+  url       = {https://doi.org/10.24963/ijcai.2024/348},
+}
 ```
